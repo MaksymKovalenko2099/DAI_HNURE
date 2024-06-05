@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAI", "DAI\DAI.csproj", "{86254BBE-01E6-4D85-9758-F39DB7DD82EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86254BBE-01E6-4D85-9758-F39DB7DD82EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86254BBE-01E6-4D85-9758-F39DB7DD82EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86254BBE-01E6-4D85-9758-F39DB7DD82EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86254BBE-01E6-4D85-9758-F39DB7DD82EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F3EA39-0C76-49BA-842E-2D3E9C77BCCC}
+	EndGlobalSection
+EndGlobal
